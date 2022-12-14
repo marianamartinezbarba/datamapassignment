@@ -1,0 +1,71 @@
+
+body {
+  background-color: ghostwhite;
+}
+
+h1 {
+  color: black;
+  margin-left: 20px;
+  font-family: verdana;
+  text-align: center
+}
+
+h2{
+  color: black;
+  margin-left: 10px;
+  font-family: verdana;
+  text-align: center
+
+}
+
+p { font-family: verdana, sans-serif; 
+  text-align: center
+
+}
+
+.resize {
+    width: 400px;
+    height: auto;
+}
+
+.resize {
+    width: 300px;
+    height: auto;
+}
+
+img {
+  width: 50%;
+  height: 50%;
+   display: block;
+    margin-left: auto;
+    margin-right: auto 
+}
+
+h5 {
+   color: black;
+  margin-left: 20px;
+  font-family: verdana;
+  text-align: center
+}
+
+   div {
+     color: black;
+  margin-left: 20px;
+  font-family: verdana;
+  text-align: center
+}
+
+   figcaption { 
+    width: 50%;
+  font-family: verdana;
+  font-style: italic;
+  height: 50%;
+   display: block;
+    margin-left: auto;
+    margin-right: auto 
+
+
+  }
+
+
+   
